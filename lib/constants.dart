@@ -11,11 +11,7 @@ const kEqualTextStyle = TextStyle(
   fontSize: 70,
   fontWeight: FontWeight.bold,
 );
-const kOperationTextStyle = TextStyle(
-  color: Colors.white,
-  fontSize: 35,
-  fontWeight: FontWeight.bold,
-);
+
 const kColorOne = Color(0xff52C9DC);
 const kButtonTextStyle = TextStyle(
   color: Colors.white,
@@ -23,3 +19,13 @@ const kButtonTextStyle = TextStyle(
   fontWeight: FontWeight.bold,
 );
 const kColorTwo = Color.fromARGB(255, 39, 41, 60);
+const kRichTextStyle1 = TextStyle(
+  color: Color(0xff52C9DC),
+  fontSize: 35,
+  fontWeight: FontWeight.bold,
+);
+const kRichTextStyle2 = TextStyle(
+  color: Colors.white,
+  fontSize: 35,
+  fontWeight: FontWeight.bold,
+);
